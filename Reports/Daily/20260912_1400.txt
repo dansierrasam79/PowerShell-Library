@@ -1,0 +1,4 @@
+[09/12/2026 14:00:16] Starting ConfigLoader
+[09/12/2026 14:00:16] [ERROR] Error loading configuration: Configuration directory not found: C:\\NoSuchFolder
+[09/12/2026 14:00:16] Completed ConfigLoader
+[09/12/2026 14:00:16] [ERROR] Error refreshing configuration: Configuration directory not found: C:\\NoSuchFolder

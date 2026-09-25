@@ -1,0 +1,36 @@
+[09/12/2026 13:39:43] Starting HighResourceUsage
+[09/12/2026 13:39:43] [INFO] Gathering process resource usage...
+[09/12/2026 13:39:43] [INFO] Top 10 Processes by CPU Time:
+[09/12/2026 13:39:43] [INFO] 
+   Id ProcessName              CPU MemoryMB
+   -- -----------              --- --------
+ 7724 Code                  581.47   456.15
+19100 OneDrive.Sync.Service 353.53    48.74
+12628 explorer              344.44   249.61
+16076 Code                  264.36   175.20
+14028 PAD.Console.Host      248.39   189.10
+14148 msedgewebview2        167.02    24.39
+11832 Code                  160.59   867.77
+15532 msedge                140.44   190.53
+  668 OneDrive              139.48   110.70
+10960 Code                   96.98   396.92
+
+
+[09/12/2026 13:39:43] [INFO] Top 10 Processes by Memory Usage:
+[09/12/2026 13:39:43] [INFO] 
+   Id ProcessName      MemoryMB    CPU
+   -- -----------      --------    ---
+11832 Code               867.77 160.59
+ 7724 Code               456.15 581.52
+10960 Code               396.92  96.98
+12628 explorer           249.61 344.44
+ 5092 MsMpEng            239.77       
+18488 msedge             224.94  43.12
+15532 msedge             190.53 140.44
+14028 PAD.Console.Host   189.10 248.39
+ 1376 pwsh               181.58  19.69
+16076 Code               175.20 264.36
+
+
+[09/12/2026 13:39:43] [INFO] High resource usage report generated successfully.
+[09/12/2026 13:39:43] Completed HighResourceUsage

@@ -1,0 +1,6 @@
+{
+  "ReportDirectory": "..\\Reports",
+  "LogRetentionDays": 30,
+  "DiskUsageThreshold": 80,
+  "CpuUsageThreshold": 75
+}
